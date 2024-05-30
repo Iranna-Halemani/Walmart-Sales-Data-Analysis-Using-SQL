@@ -1,7 +1,7 @@
 # Walmart-Sales-Data-Analysis-Using-SQL
 
 Introduction   
-Hello Welcome to the Walmart Sales Data Analysis project, where we dive into the fascinating world of retail data using SQL. 
+Hello Welcome to the Walmart Sales Data Analysis project, where we dive into the fascinating world of retail data using SQL.   
 Whether you’re a business analyst, a curious learner, or just someone who loves crunching numbers, this repository has something exciting in store.
 
 What’s Inside?  
